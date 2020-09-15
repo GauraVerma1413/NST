@@ -1,4 +1,5 @@
 # Art Generation
+For better understanding pdf has been attached. Kindly look into that.
 
 The notebook Neural_Style_Transfer.ipynb generates an artistic version of the content image styled similar to a style image. The algorithm
 uses Vgg16 architecture to train the pixels of a randomly generated image over a weighted sum of content_loss and style loss.
