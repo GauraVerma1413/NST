@@ -11,4 +11,4 @@ uses Vgg16 architecture to train the pixels of a randomly generated image over a
 - Run all the cells of the notebook
 
 # Some Results
-I am attaching the NST results pdf for he results.
+I am attaching the NST results pdf for the results.
